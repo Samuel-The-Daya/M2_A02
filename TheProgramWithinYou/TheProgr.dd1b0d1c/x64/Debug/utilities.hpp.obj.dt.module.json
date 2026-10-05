@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TheProgr.dd1b0d1c\\x64\\Debug\\utilities.obj",
+            "outputs": [
+                "TheProgr.dd1b0d1c\\x64\\Debug\\utilities.hpp.obj.dt.module.json",
+                "TheProgr.dd1b0d1c\\x64\\Debug\\utilities.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

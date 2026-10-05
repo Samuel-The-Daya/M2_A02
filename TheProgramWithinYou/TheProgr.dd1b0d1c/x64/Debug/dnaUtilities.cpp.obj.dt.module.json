@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TheProgr.dd1b0d1c\\x64\\Debug\\dnaUtilities.obj",
+            "outputs": [
+                "TheProgr.dd1b0d1c\\x64\\Debug\\dnaUtilities.cpp.obj.dt.module.json",
+                "TheProgr.dd1b0d1c\\x64\\Debug\\dnaUtilities.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
