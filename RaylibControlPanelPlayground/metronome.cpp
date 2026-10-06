@@ -2,7 +2,7 @@
 
 #include "raylib.h"
 #include <cmath>
-Metronome::Metronome(int x, int y, float size, float pendulumLength, Color pendulumColor, Color baseColor, Color backColor, float bpm)
+Metronome::Metronome(int x, int y, float size, float pendulumLength, Color pendulumColor, Color baseColor, Color backColor, int bpm)
 	: x{ x }, y{ y }, size{ size }, pendulumLength{ pendulumLength }, pendulumColor{ pendulumColor }, baseColor{ baseColor }, backColor{ backColor }, bpm {
 	bpm
 }, rotation{ -PI / 2 }

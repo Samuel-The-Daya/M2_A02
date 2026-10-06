@@ -4,16 +4,27 @@
 
 #include "button.hpp"
 #include "metronome.hpp"
+#include "note.hpp"
 
 int main()
 {
-	const float bpm{ 130 };
+	const int bpm{ 180 };
 
 	// Tell the window to use vsync and work on high DPI displays
 	SetConfigFlags(FLAG_VSYNC_HINT | FLAG_WINDOW_HIGHDPI);
 
 	// Create the window and OpenGL context
 	InitWindow(1500, 800, "Samuel's Rhythm Game");
+
+	Note noteSample{
+		Vector2(GetScreenWidth() / 2 - GetScreenWidth() / 5,
+		0),
+		Vector2(GetScreenWidth() / 2 - GetScreenWidth() / 5,
+		GetScreenHeight() - GetScreenHeight() / 8),
+		60,
+		BLUE,
+		bpm
+	};
 
 	Button buttonD{
 		GetScreenWidth() / 2 - GetScreenWidth() / 5,
@@ -55,7 +66,7 @@ int main()
 		false
 	};
 
-	Metronome metronomeOne{
+	Metronome metronomeLeft{
 		GetScreenWidth() / 6,
 		GetScreenHeight() / 2,
 		25,
@@ -66,7 +77,7 @@ int main()
 		bpm
 	};
 
-	Metronome metronomeTwo{
+	Metronome metronomeRight{
 		GetScreenWidth() - GetScreenWidth() / 6,
 		GetScreenHeight() / 2,
 		25,
@@ -92,13 +103,16 @@ int main()
 		// Setup the back buffer for drawing (clear color and depth buffers)
 		ClearBackground(SKYBLUE);
 
+		noteSample.show();
+		noteSample.move();
+
 		buttonD.show();
 		buttonF.show();
 		buttonJ.show();
 		buttonK.show();
 
-		metronomeOne.show();
-		metronomeTwo.show();
+		metronomeLeft.show();
+		metronomeRight.show();
 
 
 		// end the frame and get ready for the next one  (display frame, poll input, etc...)

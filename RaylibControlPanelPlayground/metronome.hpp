@@ -12,12 +12,12 @@ class Metronome {
 	Color pendulumColor;
 	Color baseColor;
 	Color backColor;
-	float bpm;
+	int bpm;
 	float rotation;
 
 public:
 
-	Metronome(int x, int y, float size, float pendulumLength, Color pendulumColor, Color baseColor, Color backColor, float bpm);
+	Metronome(int x, int y, float size, float pendulumLength, Color pendulumColor, Color baseColor, Color backColor, int bpm);
 	void show();
 
 private:
