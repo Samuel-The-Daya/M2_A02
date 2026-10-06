@@ -1,0 +1,10 @@
+﻿  button.cpp
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\button.cpp(24,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\button.cpp(24,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\button.cpp(24,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  RaylibControlPanelPlayground.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 78 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RaylibControlPanelPlayground.vcxproj -> C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\x64\Release\RaylibControlPanelPlayground.exe

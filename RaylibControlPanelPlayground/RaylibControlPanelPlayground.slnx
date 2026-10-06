@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="RaylibControlPanelPlayground.vcxproj" />
+  <Project Path="RaylibControlPanelPlayground.vcxproj" Id="07c78bb5-3137-4dde-92d8-b1544ba54883" />
 </Solution>
