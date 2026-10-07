@@ -7,21 +7,26 @@
 
 int main()
 {
+    // Ask for two DNA strings
     std::string strandX = fetchInput("Please input a DNA string.\n\n");
     std::string strandY = fetchInput("Please input a second DNA string.\n\n");
 
+    // Count bases for each strand
     std::map countedBasesX = dna::countBases(strandX);
     std::map countedBasesY = dna::countBases(strandY);
 
-    std::cout << strandX << "\n";
+    // Prints the strand and it's sorted bases
+    std::cout << "\n\n" << strandX << "\n";
     for (auto& p : countedBasesX)
-        std::cout << p.first << " " <<
+        std::cout << p.first << " : " <<
         p.second << std::endl;
 
+    // Prints the strand and it's sorted bases
     std::cout << "\n" << strandY << "\n";
     for (auto& p : countedBasesY)
-        std::cout << p.first << " " <<
+        std::cout << p.first << " : " <<
         p.second << std::endl;
-
+    
+    // Prints the hamming distance
     std::cout << "\n" << dna::hamming(strandX, strandY);
 }

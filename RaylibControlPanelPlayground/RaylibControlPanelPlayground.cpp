@@ -6,6 +6,7 @@
 
 int main()
 {
+	// Initialize Values for Rhythm Game
 	const int bpm{ 180 };
 	const int noteFrequency{ 2 };
 	const int noteChance{ 75 };
@@ -16,6 +17,7 @@ int main()
 	// Create the window and OpenGL context
 	InitWindow(1500, 800, "Samuel's Rhythm Game");
 
+	// Create a metronome on the left side of the screen
 	Metronome metronomeLeft{
 		GetScreenWidth() / 6,
 		GetScreenHeight() / 2,
@@ -27,6 +29,7 @@ int main()
 		bpm
 	};
 
+	// Creates a metronome on the right side of the screen
 	Metronome metronomeRight{
 		GetScreenWidth() - GetScreenWidth() / 6,
 		GetScreenHeight() / 2,
@@ -38,9 +41,8 @@ int main()
 		bpm
 	};
 
+	// Initialize the rhythm game
 	Rhythm game{bpm, noteFrequency, noteChance};
-
-	game.setupButtons();
 
 	// game loop
 	while (!WindowShouldClose())		// run the loop until the user presses ESCAPE or presses the Close button on the window

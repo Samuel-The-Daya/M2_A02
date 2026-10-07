@@ -1,15 +1,2 @@
 ﻿  RaylibControlPanelPlayground.cpp
-  rhythmGame.cpp
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(101,22): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(101,22): warning C4244:         with
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(101,22): warning C4244:         [
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(101,22): warning C4244:             _Ty=int
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(101,22): warning C4244:         ]
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(101,43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(100,42): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(100,42): warning C4244:         with
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(100,42): warning C4244:         [
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(100,42): warning C4244:             _Ty=int
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(100,42): warning C4244:         ]
-  Generating Code...
   RaylibControlPanelPlayground.vcxproj -> C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\x64\Debug\RaylibControlPanelPlayground.exe

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:RaylibControlPanelPlayground.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\rhythmGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:rhythmGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\rhythmGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:rhythmGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "rhythmGame.hpp",
               "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\rhythmGame.hpp",
               "RelativeDocumentMoniker": "rhythmGame.hpp",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "rhythmGame.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-06T23:35:28.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T23:35:28.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "rhythmGame.cpp",
               "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\rhythmGame.cpp",
               "RelativeDocumentMoniker": "rhythmGame.cpp",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "rhythmGame.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-06T23:35:18.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T23:35:18.892Z"
             },
             {
               "$type": "Document",
@@ -92,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "button.hpp",
               "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.hpp",
               "RelativeDocumentMoniker": "button.hpp",
               "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.hpp",
               "RelativeToolTip": "button.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-10-06T15:25:44.579Z",
               "EditorCaption": ""
@@ -111,7 +109,7 @@
               "RelativeDocumentMoniker": "RaylibControlPanelPlayground.cpp",
               "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\RaylibControlPanelPlayground.cpp",
               "RelativeToolTip": "RaylibControlPanelPlayground.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-05T20:57:41.427Z",
               "EditorCaption": ""
