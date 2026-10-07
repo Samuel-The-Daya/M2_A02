@@ -1,34 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\",
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\RaylibControlPanelPlayground.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\rhythmGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:rhythmGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\rhythmGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:rhythmGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\RaylibControlPanelPlayground.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:RaylibControlPanelPlayground.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\note.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:note.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:metronome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\note.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:note.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:metronome.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\note.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07C78BB5-3137-4DDE-92D8-B1544BA54883}|RaylibControlPanelPlayground.vcxproj|solutionrelative:note.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +41,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "note.hpp",
-              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\note.hpp",
-              "RelativeDocumentMoniker": "note.hpp",
-              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\note.hpp",
-              "RelativeToolTip": "note.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-06T19:42:06.067Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\vector",
+              "ViewState": "AgIAAHsHAAAAAAAAAAAgwJEHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-07T01:26:02.763Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "note.cpp",
-              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\note.cpp",
-              "RelativeDocumentMoniker": "note.cpp",
-              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\note.cpp",
-              "RelativeToolTip": "note.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-06T19:41:59.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "metronome.hpp",
-              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.hpp",
-              "RelativeDocumentMoniker": "metronome.hpp",
-              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.hpp",
-              "RelativeToolTip": "metronome.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB1AAAAAAAAAA==",
+              "Title": "rhythmGame.hpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\rhythmGame.hpp",
+              "RelativeDocumentMoniker": "rhythmGame.hpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\rhythmGame.hpp",
+              "RelativeToolTip": "rhythmGame.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-06T16:17:31.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "metronome.cpp",
-              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.cpp",
-              "RelativeDocumentMoniker": "metronome.cpp",
-              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.cpp",
-              "RelativeToolTip": "metronome.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-06T16:17:22.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "button.hpp",
-              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.hpp",
-              "RelativeDocumentMoniker": "button.hpp",
-              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.hpp",
-              "RelativeToolTip": "button.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-06T15:25:44.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "button.cpp",
-              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.cpp",
-              "RelativeDocumentMoniker": "button.cpp",
-              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.cpp",
-              "RelativeToolTip": "button.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-06T15:25:36.898Z",
+              "WhenOpened": "2026-10-06T23:35:28.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "rhythmGame.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\rhythmGame.cpp",
+              "RelativeDocumentMoniker": "rhythmGame.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\rhythmGame.cpp*",
+              "RelativeToolTip": "rhythmGame.cpp*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-06T23:35:18.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "note.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\note.cpp",
+              "RelativeDocumentMoniker": "note.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\note.cpp",
+              "RelativeToolTip": "note.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-06T19:41:59.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "metronome.hpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.hpp",
+              "RelativeDocumentMoniker": "metronome.hpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.hpp",
+              "RelativeToolTip": "metronome.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-06T16:17:31.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "metronome.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.cpp",
+              "RelativeDocumentMoniker": "metronome.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\metronome.cpp",
+              "RelativeToolTip": "metronome.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-06T16:17:22.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "button.hpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.hpp",
+              "RelativeDocumentMoniker": "button.hpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\button.hpp",
+              "RelativeToolTip": "button.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-06T15:25:44.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RaylibControlPanelPlayground.cpp",
-              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\RaylibControlPanelPlayground.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\RaylibControlPanelPlayground.cpp",
               "RelativeDocumentMoniker": "RaylibControlPanelPlayground.cpp",
-              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\RaylibControlPanelPlayground.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M2_A02\\RaylibControlPanelPlayground\\RaylibControlPanelPlayground.cpp",
               "RelativeToolTip": "RaylibControlPanelPlayground.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-05T20:57:41.427Z",
               "EditorCaption": ""

@@ -12,13 +12,10 @@ class Button {
 	std::string label;
 	Color offColor;
 	Color onColor;
-	bool status;
+	KeyboardKey keyCode;
 
 public:
-	Button(int x, int y, float radius, std::string label, Color offColor, Color onColor, bool status);
-
-	void setStatus(bool status);
-	bool Status();
+	Button(int x, int y, float radius, std::string label, Color offColor, Color onColor, KeyboardKey keyCode);
 
 	void show();
 };

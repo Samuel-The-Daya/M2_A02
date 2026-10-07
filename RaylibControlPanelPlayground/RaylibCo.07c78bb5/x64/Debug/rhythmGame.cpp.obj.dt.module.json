@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "RaylibCo.07c78bb5\\x64\\Debug\\rhythmGame.obj",
+            "outputs": [
+                "RaylibCo.07c78bb5\\x64\\Debug\\rhythmGame.cpp.obj.dt.module.json",
+                "RaylibCo.07c78bb5\\x64\\Debug\\rhythmGame.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

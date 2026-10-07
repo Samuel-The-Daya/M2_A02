@@ -27,6 +27,9 @@
     <ClCompile Include="note.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="rhythmGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="button.hpp">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="note.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rhythmGame.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

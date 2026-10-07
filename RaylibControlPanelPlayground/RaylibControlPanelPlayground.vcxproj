@@ -143,11 +143,13 @@
     <ClCompile Include="metronome.cpp" />
     <ClCompile Include="note.cpp" />
     <ClCompile Include="RaylibControlPanelPlayground.cpp" />
+    <ClCompile Include="rhythmGame.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="button.hpp" />
     <ClInclude Include="metronome.hpp" />
     <ClInclude Include="note.hpp" />
+    <ClInclude Include="rhythmGame.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

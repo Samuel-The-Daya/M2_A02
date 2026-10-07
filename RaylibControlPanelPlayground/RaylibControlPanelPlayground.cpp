@@ -6,9 +6,12 @@
 #include "metronome.hpp"
 #include "note.hpp"
 
+#include "rhythmGame.hpp"
+
 int main()
 {
-	const int bpm{ 180 };
+	const int bpm{ 100 };
+	const int noteFrequency{ 100 };
 
 	// Tell the window to use vsync and work on high DPI displays
 	SetConfigFlags(FLAG_VSYNC_HINT | FLAG_WINDOW_HIGHDPI);
@@ -33,7 +36,7 @@ int main()
 		"D",
 		DARKGRAY,
 		PINK,
-		false
+		KEY_D
 	};
 
 	Button buttonF{
@@ -43,7 +46,7 @@ int main()
 		"F",
 		DARKGRAY,
 		PINK,
-		false
+		KEY_F
 	};
 
 	Button buttonJ{
@@ -53,7 +56,7 @@ int main()
 		"J",
 		DARKGRAY,
 		PINK,
-		false
+		KEY_J
 	};
 
 	Button buttonK{
@@ -63,7 +66,7 @@ int main()
 		"K",
 		DARKGRAY,
 		PINK,
-		false
+		KEY_K
 	};
 
 	Metronome metronomeLeft{
@@ -88,14 +91,15 @@ int main()
 		bpm
 	};
 
+	Rhythm game{bpm, noteFrequency};
+
+	game.setupButtons();
+
 	// game loop
 	while (!WindowShouldClose())		// run the loop until the user presses ESCAPE or presses the Close button on the window
 	{
 
-		buttonD.setStatus(IsKeyDown(KEY_D));
-		buttonF.setStatus(IsKeyDown(KEY_F));
-		buttonJ.setStatus(IsKeyDown(KEY_J));
-		buttonK.setStatus(IsKeyDown(KEY_K));
+		game.update();
 
 		// drawing
 		BeginDrawing();
@@ -103,8 +107,7 @@ int main()
 		// Setup the back buffer for drawing (clear color and depth buffers)
 		ClearBackground(SKYBLUE);
 
-		noteSample.show();
-		noteSample.move();
+		game.render();
 
 		buttonD.show();
 		buttonF.show();

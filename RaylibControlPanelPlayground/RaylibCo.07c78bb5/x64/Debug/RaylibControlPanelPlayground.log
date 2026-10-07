@@ -1,5 +1,13 @@
-﻿  RaylibControlPanelPlayground.cpp
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\RaylibControlPanelPlayground.cpp(22,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\RaylibControlPanelPlayground.cpp(23,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\RaylibControlPanelPlayground.cpp(20,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  RaylibControlPanelPlayground.vcxproj -> C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\x64\Debug\RaylibControlPanelPlayground.exe
+﻿  rhythmGame.cpp
+C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(57,22): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(57,22): warning C4244:         with
+C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(57,22): warning C4244:         [
+C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(57,22): warning C4244:             _Ty=int
+C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(57,22): warning C4244:         ]
+C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(57,43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(56,42): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(56,42): warning C4244:         with
+C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(56,42): warning C4244:         [
+C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(56,42): warning C4244:             _Ty=int
+C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(56,42): warning C4244:         ]
+  RaylibControlPanelPlayground.vcxproj -> C:\Users\Owner\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\x64\Debug\RaylibControlPanelPlayground.exe
