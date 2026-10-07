@@ -47,7 +47,7 @@ int main()
 	// game loop
 	while (!WindowShouldClose())		// run the loop until the user presses ESCAPE or presses the Close button on the window
 	{
-
+		// Runs rhythm game update loop
 		game.update();
 
 		// drawing
@@ -56,8 +56,10 @@ int main()
 		// Setup the back buffer for drawing (clear color and depth buffers)
 		ClearBackground(SKYBLUE);
 
+		// Renders the rhythm game
 		game.render();
 
+		// Displays both metronomes
 		metronomeLeft.show();
 		metronomeRight.show();
 

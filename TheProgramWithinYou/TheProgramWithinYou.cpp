@@ -7,9 +7,22 @@
 
 int main()
 {
-    // Ask for two DNA strings
-    std::string strandX = fetchInput("Please input a DNA string.\n\n");
-    std::string strandY = fetchInput("Please input a second DNA string.\n\n");
+    
+    std::string strandX{};
+    std::string strandY{};
+
+    do {
+        // Ask for two DNA strings
+        strandX = fetchInput("Please input a DNA string.\n\n");
+        strandY = fetchInput("Please input a second DNA string.\n\n");
+
+        // Escape loop if they are equal
+        if (strandY.size() == strandX.size()) break;
+
+        // Prints an error message
+        std::cout << "DNA strings do not match the same length. Try again. \n\n";
+
+    } while (true);
 
     // Count bases for each strand
     std::map countedBasesX = dna::countBases(strandX);

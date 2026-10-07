@@ -1,2 +1,33 @@
 ﻿  RaylibControlPanelPlayground.cpp
+  button.cpp
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\button.cpp(21,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\button.cpp(21,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\button.cpp(21,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  metronome.cpp
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\metronome.cpp(18,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\metronome.cpp(18,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\metronome.cpp(18,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\metronome.cpp(18,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\metronome.cpp(26,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\metronome.cpp(26,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\metronome.cpp(27,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\metronome.cpp(27,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  note.cpp
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\note.cpp(24,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\note.cpp(24,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\note.cpp(25,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\note.cpp(25,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  rhythmGame.cpp
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(121,22): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(121,22): warning C4244:         with
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(121,22): warning C4244:         [
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(121,22): warning C4244:             _Ty=int
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(121,22): warning C4244:         ]
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(121,43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(120,42): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(120,42): warning C4244:         with
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(120,42): warning C4244:         [
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(120,42): warning C4244:             _Ty=int
+C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\rhythmGame.cpp(120,42): warning C4244:         ]
+  Generating Code...
   RaylibControlPanelPlayground.vcxproj -> C:\Users\jdaya\Documents\GitHub\M2_A02\RaylibControlPanelPlayground\x64\Debug\RaylibControlPanelPlayground.exe

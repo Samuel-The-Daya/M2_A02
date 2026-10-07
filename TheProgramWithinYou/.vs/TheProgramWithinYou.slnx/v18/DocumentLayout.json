@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\passwordUtilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|solutionrelative:passwordUtilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\dnaUtilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|solutionrelative:dnaUtilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\TheProgramWithinYou.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|solutionrelative:TheProgramWithinYou.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\dnaUtilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|solutionrelative:dnaUtilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\dnaUtilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|solutionrelative:dnaUtilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\passwordUtilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DD1B0D1C-6A7B-4EF3-BC2A-02C5136C02C1}|TheProgramWithinYou.vcxproj|solutionrelative:passwordUtilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "passwordUtilities.hpp",
               "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\passwordUtilities.hpp",
               "RelativeDocumentMoniker": "passwordUtilities.hpp",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "dnaUtilities.hpp",
               "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\dnaUtilities.hpp",
               "RelativeDocumentMoniker": "dnaUtilities.hpp",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "dnaUtilities.cpp",
               "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\dnaUtilities.cpp",
               "RelativeDocumentMoniker": "dnaUtilities.cpp",
@@ -76,12 +76,11 @@
               "RelativeToolTip": "dnaUtilities.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-05T20:05:34.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T20:05:34.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "passwordUtilities.cpp",
               "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\passwordUtilities.cpp",
               "RelativeDocumentMoniker": "passwordUtilities.cpp",
@@ -89,12 +88,11 @@
               "RelativeToolTip": "passwordUtilities.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-05T19:56:45.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T19:56:45.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "userInput.hpp",
               "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\userInput.hpp",
               "RelativeDocumentMoniker": "userInput.hpp",
@@ -102,12 +100,11 @@
               "RelativeToolTip": "userInput.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-05T19:40:03.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T19:40:03.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "userInput.cpp",
               "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\userInput.cpp",
               "RelativeDocumentMoniker": "userInput.cpp",
@@ -115,18 +112,17 @@
               "RelativeToolTip": "userInput.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-05T19:39:18.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T19:39:18.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TheProgramWithinYou.cpp",
               "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\TheProgramWithinYou.cpp",
               "RelativeDocumentMoniker": "TheProgramWithinYou.cpp",
               "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M2_A02\\TheProgramWithinYou\\TheProgramWithinYou.cpp",
               "RelativeToolTip": "TheProgramWithinYou.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-05T19:38:17.559Z",
               "EditorCaption": ""

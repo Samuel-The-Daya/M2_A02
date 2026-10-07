@@ -1,2 +1,6 @@
 ﻿  TheProgramWithinYou.cpp
+  dnaUtilities.cpp
+  passwordUtilities.cpp
+  userInput.cpp
+  Generating Code...
   TheProgramWithinYou.vcxproj -> C:\Users\jdaya\Documents\GitHub\M2_A02\TheProgramWithinYou\x64\Debug\TheProgramWithinYou.exe
