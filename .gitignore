@@ -31,5 +31,8 @@
 *.out
 *.app
 
-# Intellisense Cache
+# Ignore Visual Studio and VS Code IntelliSense cache
+.vs/
+.vscode/ipch/
+ipch/
 *.ipch
